@@ -15,7 +15,7 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 * DAX Query
 
 ## Dashboard
-![Ecommerce_Sales_Insights_page-0001](https://github.com/Praveendinesha/Sales-Insights-Analysis/assets/142248403/f5a42c27-1638-49cb-9ee0-3521b29bc9c1)
+![Ecommerce_Sales_Insights_page-0001](https://github.com/sandeep1188/Sales_analysis-/blob/main/Ecommerce_Sales_Insights.pbix)
 
 ## Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Total Sales, Total Quantity, Profit Margin%
